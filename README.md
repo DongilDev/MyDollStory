@@ -2,7 +2,7 @@
 GA5th 1Q Project (WinAPI)
 
 -플밍
-팀장 임상학
+임상학
 김동일
 박지원
 이석영
@@ -12,7 +12,7 @@ GA5th 1Q Project (WinAPI)
 박해성
 
 -기획
-팀장 이선아
+이선아
 유민석
  
 
