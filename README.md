@@ -1,6 +1,8 @@
 # MyDollStory
 GA5th 1Q Project (WinAPI)
 
+[플레이 영상](https://www.youtube.com/watch?v=X5qVZ6VZGRM&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=MjM4NTE)
+
 ![Honeycam 2024-11-06 18-05-36](https://github.com/user-attachments/assets/67382c9b-9d8f-44a8-9172-759dc6dcb4cd) <br/>
 
 장르 : 퍼즐<br/>
